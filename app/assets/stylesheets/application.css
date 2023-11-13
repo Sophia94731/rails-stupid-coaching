@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  text-align: center;
+ }
+
+ #coach-answer {
+  background-color: rgb(249, 224, 186);
+ }
